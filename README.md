@@ -4,7 +4,7 @@
 
 I'm eager to build new blockchain and web applications requiring solid knowledge and soft skills.
 
-- ✉️  You can contact me at [mailto:tboy1125@hotmail.com]
+- ✉️  You can contact me at 
 - 🧠  I'm learning Golang
 - 🤝  I'm open to collaborating on all projects loving me
 - ⚡  I love to see football matches, but can't play well LOL.
